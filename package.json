@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/EmaSuriano/gatsby-starter-mate#readme",
   "dependencies": {
-    "contentful": "^7.0.3",
+    "contentful": "^7.8.1",
     "dotenv": "^7.0.0",
     "envfile": "^3.0.0",
     "gatsby": "^2.3.27",
